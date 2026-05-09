@@ -1,77 +1,54 @@
-# MEUS 5 SITES FAVORITOS
-
----
-
-## 🌐 Site Número 01 — Centro Paula Souza
-
-O Centro Paula Souza (CPS) é uma autarquia do Governo do Estado de São Paulo, vinculada à Secretaria de Ciência, Tecnologia e Inovação, que administra as Escolas Técnicas (Etecs) e Faculdades de Tecnologia (Fatecs) estaduais.
-
-É a maior instituição de ensino profissionalizante da América Latina, oferecendo educação gratuita e de qualidade com foco no mercado de trabalho.
-
-![Centro Paula Souza](imag/01cps.png)
-
-🔗 [Link para o Centro Paula Souza](https://www.cps.sp.gov.br/)
-
----
-
-## 🎨 Site Número 02 — Canva e Seus Recursos
-
-Canva é uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais.
-
-Lançado em 2013, o Canva é uma ferramenta online que tem a missão de garantir que qualquer pessoa no mundo possa criar qualquer design para publicar em qualquer lugar.  
-*(Bootcamps maio de 2026)*
-
-![Canva](imag/02canva.png)
-
-🔗 [Link para o Canva](https://www.canva.com/pt_br/)
-
----
-
-## 🛠️ Site Número 03 — Instructables
-
-O Instructables é uma grande comunidade online focada em projetos DIY (Do It Yourself), onde usuários acompanham instruções passo a passo, fotos e vídeos sobre como construir, cozinhar, reconstruir ou criar diversos objetos.
-
-Pertencente à Autodesk, o site abrange categorias como tecnologia, oficina, artesanato, culinária e casa.  
-*(TechTudo maio de 2026)*
-
-![Instructables](imag/03Instructables.png)
-
-🔗 [Link para o Instructables](https://www.instructables.com/)
-
----
-
-## 📱 Site Número 04 — MIT App Inventor
-
-MIT App Inventor é uma aplicação de código aberto originalmente criada pela Google e atualmente mantida pelo MIT.
-
-A plataforma permite criar aplicativos funcionais para Android e iOS usando blocos visuais de programação, sem precisar escrever códigos tradicionais.
-
-É uma ferramenta gratuita e intuitiva, ideal para iniciantes e estudantes aprenderem lógica de programação.  
-*(Wikipédia maio de 2026)*
-
-![MIT App Inventor](imag/04mit.png)
-
-🔗 [Link para o MIT App Inventor](https://appinventor.mit.edu/)
-
----
-
-# 💻 Site Número 05 — GitHub
-
-O GitHub é uma ferramenta essencial para engenheiros de software, ajudando a melhorar o fluxo de trabalho e promover a colaboração entre desenvolvedores.
-
-Mais de 94 milhões de desenvolvedores, 4 milhões de organizações e 330 milhões de repositórios fazem parte da plataforma.
-
-Sua popularidade se deve à grande quantidade de recursos disponíveis para controlar e gerenciar projetos em qualquer linguagem de programação ou sistema operacional.  
-*(EBAC Online maio de 2026)*
-
-![GitHub](imag/05GitHub.png)
-
-🔗 [Link para o GitHub](https://github.com/)
-
----echo "# Meus-5-Sites-Favoritos-" >> README.md 
-git init 
-git add README.md 
-git commit -m "primeiro commit" 
-git branch -M main 
-git remote add origin https://github.com/marcospaulocorrea123-wq/Meus-5-Sites-Favoritos-.git
- git push -u origin main
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Meus Sites Preferidos </title>
+</head>
+<body>
+<h1>MEUS 5 SITES FAVORITOS</H1><br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h2>Site Número 01 Centro Paula Souza </h2>
+<p>O Centro Paula Souza (CPS) é uma autarquia do Governo do Estado de São Paulo, vinculada à Secretaria de Ciência, Tecnologia</p> 
+<p> e Inovação, que administra as Escolas Técnicas (Etecs) e Faculdades de Tecnologia (Fatecs) estaduais.. É a maior </p>
+<p> instituição de ensino profissionalizante da América Latina, oferecendo educação gratuita e de</p>
+<p> qualidade com foco no mercado de trabalho.</p>
+ <img src = "imag/01cps.png"><br>
+<a href="https://www.cps.sp.gov.br/"><h2>Link para o Centro Paula Souza</h2> </a><br>
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h2>Site Número 02 Canva e Seus Recursos</h2>
+<p>Canva é uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres </p> 
+<p> e outros conteúdos visuais. Lançado em 2013, o Canva é uma ferramenta online que tem a missão  de garantir  </p>
+<p> que qualquer pessoa no mundo possa criar qualquer design para </p>
+<p>   publicar em qualquer lugar. ( Bootcamps maio de 2026) </p> 
+ <img src = "imag/02canva.png"><br>
+<a href="https://www.canva.com/pt_br/"><h2>Link para o Canvas</h2> </a><br>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h2>Site Número 03 Instructables </h2>
+<p> O Instructables (frequentemente acessado via instructables.com) é uma grande comunidade online focada em projetos "faça você mesmo" 
+<p> (DIY - Do It Yourself ), onde usuários acompanham instruções passo a passo, fotos e vídeos sobre como construir, cozinhar, </p>
+<p> reconstruir ou criar diversos objetos. Pertencente à Autodesk, o site abrange categorias como</p>
+<p> tecnologia, oficina, artesanato, culinária e casa. (Tech tudo maio de 2026)</p>
+ <img src = "imag/03Instructables.png"><br>
+<a href="https://www.instructables.com/"><h2>Link para o Instructables</h2> </a><br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h2>Site Número 04 MIT App Inventor</h2>
+<p> MIT App Inventor, também conhecido como App Inventor for Android, é uma aplicação código aberto originalmente criada pela Google, e </p> 
+<p> atualmente mantida pelo Massachusetts Institute of Technology (MIT). que permite criar aplicativos funcionais para Android  e iOS </p> 
+<p> usando blocos visuais de programação, sem precisar escrever códigos tradicionais. É uma ferramenta gratuita  </p> 
+<p> e intuitiva, ideal para iniciantes e estudantes aprenderem lógica de programação.  (Wikipédia maio de 2026) </p> 
+ <img src = "imag/04mit.png"><br>
+<a href="https://appinventor.mit.edu/"><h2>Link para o Mit App Inventor</h2> </a><br>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>Site número 05 GitHub</h1>
+<p> O GitHub é uma ferramenta essencial para os engenheiros de software que ajuda a melhorar o fluxo de trabalho e promove a colaboração de </p>
+<p> 94 milhões de desenvolvedores, 4 milhões de organizações e 330 milhões de repositórios formam parte da plataforma, e a </p>
+<p>  comunidade do GitHub continua crescendo. Esta popularidade se deve à grande quantidade de opções </p>
+<p> disponíveis para controlar e gerir projetos de código em qualquer linguagem </p>
+<p> de programação ou sistema operacional. (Ebaconline maio de 2026) </p>
+ <img src = "imag/05GitHub.png"><br>
+<a href="https://github.com/"><h2>Link para o GitHub</h2> </a><br>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</body>
+</html>
