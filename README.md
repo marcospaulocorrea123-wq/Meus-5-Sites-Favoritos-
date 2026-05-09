@@ -9,6 +9,9 @@ O Centro Paula Souza (CPS) é uma autarquia do Governo do Estado de São Paulo, 
 É a maior instituição de ensino profissionalizante da América Latina, oferecendo educação gratuita e de qualidade com foco no mercado de trabalho.
 
 <img width="254" height="108" alt="01cps" src="https://github.com/user-attachments/assets/93e4f05b-191c-4db7-9eb7-acfb0c524682" />
+Fonte: Centro Paula Souza Maio de 2026
+
+
 
 🔗 [Link para o Centro Paula Souza](https://www.cps.sp.gov.br/)
 
@@ -19,9 +22,10 @@ O Centro Paula Souza (CPS) é uma autarquia do Governo do Estado de São Paulo, 
 Canva é uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais.
 
 Lançado em 2013, o Canva é uma ferramenta online que tem a missão de garantir que qualquer pessoa no mundo possa criar qualquer design para publicar em qualquer lugar.  
-*(Bootcamps maio de 2026)*
+
 
 <img width="329" height="150" alt="02canva" src="https://github.com/user-attachments/assets/f6124824-1c87-4009-b068-ee9486282f92" />
+*(Bootcamps maio de 2026)*
 
 
 🔗 [Link para o Canva](https://www.canva.com/pt_br/)
