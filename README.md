@@ -41,29 +41,7 @@ Como o projeto foi desenvolvido apenas com HTML, não é necessário instalar bi
 
 ## 💡 Exemplo de uso
 
-
-Assim que você executar o programa vai apresentar uma simulação exibindo a situação 
-do nivel de agua e os respectivos alarmes em intervalos de tempo conforme as figuras abaixo.
-
-
-## ⏱️ Intervalo 01
-
-
-
-<img width="454" height="169" alt="03" src="https://github.com/user-attachments/assets/eb03ba7d-b753-4daa-879b-47cac042ef51" />
-
-
-
-## ⏱️ Intervalo 02
-
-<img width="445" height="276" alt="07" src="https://github.com/user-attachments/assets/834bb2fe-49ae-40fc-a981-7bd120f147ca" />
-
-
-## ⏱️ Intervalo (t + n...)
-
-
-<img width="452" height="488" alt="08" src="https://github.com/user-attachments/assets/ff9efdcb-6da7-4cd0-a63d-87342e325a05" />
-
+<img width="899" height="483" alt="print 01" src="https://github.com/user-attachments/assets/a22a0fdb-fea6-4c04-ac3c-e9a8b163a021" />
 
 
 
