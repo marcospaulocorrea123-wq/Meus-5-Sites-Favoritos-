@@ -1,7 +1,6 @@
 # 💻 PROJETO MEUS 05 SITES FAVORITOS
 
 ![Autor](https://img.shields.io/badge/Autor-Marcos%20Correa-000000?style=for-the-badge&logo=github&logoColor=white)
-![Projeto Acadêmico](https://img.shields.io/badge/Projeto-Acadêmico-blue?style=for-the-badge)
 ![Responsivo](https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge)
 ![License MIT](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
@@ -41,9 +40,21 @@ Como o projeto foi desenvolvido apenas com HTML, não é necessário instalar bi
 
 ## 💡 Exemplo de uso
 
-<img width="899" height="483" alt="print 01" src="https://github.com/user-attachments/assets/a22a0fdb-fea6-4c04-ac3c-e9a8b163a021" />
 
+## Print do cabeçalho do código com comentários
+---
 
+<img width="1624" height="969" alt="print 03" src="https://github.com/user-attachments/assets/0349f066-d02e-4d1e-8d8a-000ce28eb2e0" />
+
+---
+## Print da tela de exibição do código em execução 
+---
+
+<img width="1064" height="654" alt="print 02" src="https://github.com/user-attachments/assets/bff9be7b-7e15-43bb-9a1f-fe37273f6068" />
+
+## Print do corpo do código html com comentários do site favorito 01
+
+<img width="1828" height="860" alt="print 04" src="https://github.com/user-attachments/assets/b5f336b3-7a26-422d-a900-f5f942425905" />
 
 ---
 
