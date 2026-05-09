@@ -8,52 +8,34 @@
 
 ## 📌 Objetivo do Projeto
 
-## O principal objetivo deste projeto é desenvolver uma página web simples utilizando HTML, colocando em prática os conceitos estudados em aula. A proposta busca estimular a compreensão da estrutura básica de um site, bem como a utilização correta de links e elementos visuais.Outro objetivo importante é aprender a documentar o código-fonte através de comentários explicativos, facilitando futuras manutenções e melhorando a organização do projeto. Além disso, o trabalho também tem como finalidade demonstrar a execução da página em um navegador e utilizar o GitHub como ferramenta de hospedagem e versionamento de código.
+## O objetivo deste projeto é desenvolver uma página web simples utilizando HTML, colocando em prática os conceitos estudados em aula. A proposta busca estimular a compreensão da estrutura básica de um site, bem como a utilização correta de links e elementos visuais.Outro objetivo importante é aprender a documentar o código-fonte através de comentários explicativos, facilitando futuras manutenções e melhorando a organização do projeto. Além disso, o trabalho também tem como finalidade demonstrar a execução da página em um navegador e utilizar o GitHub como ferramenta de hospedagem e versionamento de código.
 ---
 
-## 🧠 Como funciona?
+# ⚙️ Funcionamento do Site
 
-## Ao executar o programa, o sistema exibe no terminal os níveis do reservatório com cores diferentes, conforme a criticidade:
+O site do projeto **“Meus 5 Sites Favoritos”** funciona de maneira simples e objetiva. A página foi desenvolvida utilizando a linguagem HTML e possui como principal finalidade apresentar uma lista com cinco sites favoritos do autor, permitindo que o usuário acesse cada um deles por meio de links disponíveis na página.
 
-📊 Tabela de Referência de Níveis
+Ao abrir o arquivo `index.html` em um navegador web, o usuário visualiza um título principal e, logo abaixo, os links organizados na página. Cada link direciona para um site diferente ao ser clicado, possibilitando a navegação rápida entre as páginas selecionadas.
 
-🔴 Vermelho: Nível Muito baixo (Crítico) — Ação imediata necessária.
+A estrutura do site foi construída utilizando elementos básicos do HTML, como títulos (`<h1>`), links (`<a>`) e quebras de linha, proporcionando uma interface simples, funcional e de fácil compreensão. Além disso, foram adicionados comentários no código-fonte para explicar a função de determinadas partes do sistema, auxiliando na organização e documentação do projeto.
 
-🟡 Amarelo: Nível Baixo — Monitorafluxo de entrada.
+O projeto também demonstra o funcionamento básico de uma página web estática, ou seja, uma página que não necessita de banco de dados ou programação avançada para funcionar. Todo o conteúdo é exibido diretamente pelo navegador a partir do arquivo HTML desenvolvido.
 
-🟢 Verde: Nível Médio — Operação normal (Ideal).
-
-🧼 Ciano: Nível Alto — Capacidade elevada.
-
-🔵 Azul: Nível Muito Alto — Risco de transbordamento.
-
-Essa diferenciação visual facilita a interpretação rápida das 
-informações.
-
-<img width="1024" height="1536" alt="09" src="https://github.com/user-attachments/assets/8887eb3d-0981-4f6a-9508-7b3a33b702f0" />
-
+<img width="1536" height="1024" alt="fluxograma 02" src="https://github.com/user-attachments/assets/1d91b5e6-6d3b-44a0-aa8a-567b92321782" />
 
 ---
 
-## ▶️ Como executar
+# ▶️ Como Executar o Projeto
 
-1. Instale o Python
-2. Baixe o projeto ou clone o repositório:
+Para executar o projeto **“Meus 5 Sites Favoritos”**, é necessário possuir um navegador web instalado no computador, como Google Chrome, Microsoft Edge ou Mozilla Firefox.
 
-git clone https://github.com/marcospaulocorrea123-wq/Controle-de-N-vel
+Primeiramente, faça o download ou clone o repositório do projeto disponível no GitHub. Após baixar os arquivos, localize o arquivo principal chamado `index.html`.
 
+Em seguida, clique duas vezes sobre o arquivo `index.html` ou utilize a opção **“Abrir com”** e selecione um navegador de sua preferência. Automaticamente a página será aberta, exibindo o título do projeto e os links dos cinco sites favoritos cadastrados.
 
-3. Copie o Código:
+Também é possível executar o projeto utilizando o Visual Studio Code. Nesse caso, basta abrir a pasta do projeto no editor e utilizar a extensão **Live Server** para visualizar a página diretamente no navegador em tempo real.
 
-controlAg.py
-
-
-4. Execute o programa:
-
-controlAg.py
-
-
----
+Como o projeto foi desenvolvido apenas com HTML, não é necessário instalar bibliotecas, dependências ou servidores adicionais para seu funcionamento.
 
 ## 💡 Exemplo de uso
 
