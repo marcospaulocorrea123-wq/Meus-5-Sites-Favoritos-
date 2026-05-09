@@ -31,6 +31,8 @@ Para executar o projeto **“Meus 5 Sites Favoritos”**, é necessário possuir
 
 Primeiramente, faça o download ou clone o repositório do projeto disponível no GitHub. Após baixar os arquivos, localize o arquivo principal chamado `index.html`.
 
+É importante que a pasta de imagens utilizada no projeto esteja no mesmo diretório do arquivo `index.html`, mantendo a estrutura original dos arquivos. Caso a pasta seja movida ou removida, as imagens poderão não ser exibidas corretamente na página web.
+
 Em seguida, clique duas vezes sobre o arquivo `index.html` ou utilize a opção **“Abrir com”** e selecione um navegador de sua preferência. Automaticamente a página será aberta, exibindo o título do projeto e os links dos cinco sites favoritos cadastrados.
 
 Também é possível executar o projeto utilizando o Visual Studio Code. Nesse caso, basta abrir a pasta do projeto no editor e utilizar a extensão **Live Server** para visualizar a página diretamente no navegador em tempo real.
