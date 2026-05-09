@@ -1,6 +1,17 @@
-# MEUS 5 SITES FAVORITOS
+# PROJETO MEUS 5 SITES FAVORITOS
+Esta atividade tem como objetivo demonstrar:
+
+A criação de uma página HTML simples;
+
+A utilização de comentários no código para documentação;
+
+A execução correta da página web em um navegador;
+
+A publicação do projeto na plataforma GitHub.
 
 ---
+
+# MEUS 5 SITES FAVORITOS
 
 ## 🌐 Site Número 01 — Centro Paula Souza
 
