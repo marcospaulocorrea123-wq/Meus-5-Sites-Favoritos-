@@ -7,18 +7,18 @@
 
 ## 📌 Objetivo do Projeto
 
-## O objetivo deste projeto é desenvolver uma página web simples utilizando HTML, colocando em prática os conceitos estudados em aula. A proposta busca estimular a compreensão da estrutura básica de um site, bem como a utilização correta de links e elementos visuais.Outro objetivo importante é aprender a documentar o código-fonte através de comentários explicativos, facilitando futuras manutenções e melhorando a organização do projeto. Além disso, o trabalho também tem como finalidade demonstrar a execução da página em um navegador e utilizar o GitHub como ferramenta de hospedagem e versionamento de código.
+##    O objetivo deste projeto é desenvolver uma página web simples utilizando HTML, colocando em prática os conceitos estudados em aula. A proposta busca estimular a compreensão da estrutura básica de um site, bem como a utilização correta de links e elementos visuais.Outro objetivo importante é aprender a documentar o código-fonte através de comentários explicativos, facilitando futuras manutenções e melhorando a organização do projeto. Além disso, o trabalho também tem como finalidade demonstrar a execução da página em um navegador e utilizar o GitHub como ferramenta de hospedagem e versionamento de código.
 ---
 
 # ⚙️ Funcionamento do Site
 
-O site do projeto **“Meus 5 Sites Favoritos”** funciona de maneira simples e objetiva. A página foi desenvolvida utilizando a linguagem HTML e possui como principal finalidade apresentar uma lista com cinco sites favoritos do autor, permitindo que o usuário acesse cada um deles por meio de links disponíveis na página.
+        O site do projeto funciona de maneira simples e objetiva. A página foi desenvolvida utilizando a linguagem HTML e possui como principal finalidade apresentar uma lista com cinco sites favoritos do autor, permitindo que o usuário acesse cada um deles por meio de links disponíveis na página.
 
-Ao abrir o arquivo `index.html` em um navegador web, o usuário visualiza um título principal e, logo abaixo, os links organizados na página. Cada link direciona para um site diferente ao ser clicado, possibilitando a navegação rápida entre as páginas selecionadas.
+         Ao abrir o arquivo `index.html` em um navegador web, o usuário visualiza um título principal e, logo abaixo, os links organizados na página. Cada link direciona para um site diferente ao ser clicado, possibilitando a navegação rápida entre as páginas selecionadas.
 
-A estrutura do site foi construída utilizando elementos básicos do HTML, como títulos (`<h1>`), links (`<a>`) e quebras de linha, proporcionando uma interface simples, funcional e de fácil compreensão. Além disso, foram adicionados comentários no código-fonte para explicar a função de determinadas partes do sistema, auxiliando na organização e documentação do projeto.
+         A estrutura do site foi construída utilizando elementos básicos do HTML, como títulos (`<h1>`), links (`<a>`) e quebras de linha, proporcionando uma interface simples, funcional e de fácil compreensão. Além disso, foram adicionados comentários no código-fonte para explicar a função de determinadas partes do sistema, auxiliando na organização e documentação do projeto.
 
-O projeto também demonstra o funcionamento básico de uma página web estática, ou seja, uma página que não necessita de banco de dados ou programação avançada para funcionar. Todo o conteúdo é exibido diretamente pelo navegador a partir do arquivo HTML desenvolvido.
+        O projeto também demonstra o funcionamento básico de uma página web estática, ou seja, uma página que não necessita de banco de dados ou programação avançada para funcionar. Todo o conteúdo é exibido diretamente pelo navegador a partir do arquivo HTML desenvolvido.
 
 <img width="1536" height="1024" alt="fluxograma 02" src="https://github.com/user-attachments/assets/1d91b5e6-6d3b-44a0-aa8a-567b92321782" />
 
@@ -26,17 +26,17 @@ O projeto também demonstra o funcionamento básico de uma página web estática
 
 # ▶️ Como Executar o Projeto
 
-Para executar o projeto **“Meus 5 Sites Favoritos”**, é necessário possuir um navegador web instalado no computador, como Google Chrome, Microsoft Edge ou Mozilla Firefox.
+     Para executar o programa, é necessário possuir um navegador web instalado no computador, como Google Chrome, Microsoft Edge ou Mozilla Firefox.
 
 Primeiramente, faça o download ou clone o repositório do projeto disponível no GitHub. Após baixar os arquivos, localize o arquivo principal chamado `index.html`.
 
-É importante que a pasta de imagens utilizada no projeto esteja no mesmo diretório do arquivo `index.html`, mantendo a estrutura original dos arquivos. Caso a pasta seja movida ou removida, as imagens poderão não ser exibidas corretamente na página web.
+     É importante que a pasta de imagens utilizada no projeto esteja no mesmo diretório do arquivo `index.html`, mantendo a estrutura original dos arquivos. Caso a pasta seja movida ou removida, as imagens poderão não ser exibidas corretamente na página web.
 
-Em seguida, clique duas vezes sobre o arquivo `index.html` ou utilize a opção **“Abrir com”** e selecione um navegador de sua preferência. Automaticamente a página será aberta, exibindo o título do projeto e os links dos cinco sites favoritos cadastrados.
+      Em seguida, clique duas vezes sobre o arquivo `index.html` ou utilize a opção **“Abrir com”** e selecione um navegador de sua preferência. Automaticamente a página será aberta, exibindo o título do projeto e os links dos cinco sites favoritos cadastrados.
 
-Também é possível executar o projeto utilizando o Visual Studio Code. Nesse caso, basta abrir a pasta do projeto no editor e utilizar a extensão **Live Server** para visualizar a página diretamente no navegador em tempo real.
+      Também é possível executar o projeto utilizando o Visual Studio Code. Nesse caso, basta abrir a pasta do projeto no editor e utilizar a extensão **Live Server** para visualizar a página diretamente no navegador em tempo real.
 
-Como o projeto foi desenvolvido apenas com HTML, não é necessário instalar bibliotecas, dependências ou servidores adicionais para seu funcionamento.
+       Como o projeto foi desenvolvido apenas com HTML, não é necessário instalar bibliotecas, dependências ou servidores adicionais para seu funcionamento.
 
 ## 💡 Exemplo de uso
 
@@ -59,13 +59,13 @@ Como o projeto foi desenvolvido apenas com HTML, não é necessário instalar bi
 ---
 # 🏁 Descrição Final do Projeto
 
-O projeto **“Meus 5 Sites Favoritos”** foi desenvolvido utilizando a linguagem HTML com o objetivo de praticar os conceitos fundamentais de desenvolvimento web, estruturação de páginas e criação de hyperlinks. A página apresenta cinco sites selecionados pelo autor, contendo descrições informativas, imagens ilustrativas e links direcionando para os respectivos sites oficiais.
+      Foi desenvolvido utilizando a linguagem HTML com o objetivo de praticar os conceitos fundamentais de desenvolvimento web, estruturação de páginas e criação de hyperlinks. A página apresenta cinco sites selecionados pelo autor, contendo descrições informativas, imagens ilustrativas e links direcionando para os respectivos sites oficiais.
 
-Durante o desenvolvimento do projeto, foram aplicados conhecimentos relacionados à criação de páginas estáticas, utilização de títulos, parágrafos, imagens e links externos. Além disso, o código-fonte foi documentado com comentários explicativos para facilitar a compreensão da estrutura do sistema e auxiliar na organização do projeto.
+       Durante o desenvolvimento do projeto, foram aplicados conhecimentos relacionados à criação de páginas estáticas, utilização de títulos, parágrafos, imagens e links externos. Além disso, o código-fonte foi documentado com comentários explicativos para facilitar a compreensão da estrutura do sistema e auxiliar na organização do projeto.
 
-O trabalho também permitiu desenvolver habilidades no uso do GitHub para armazenamento, versionamento e compartilhamento de projetos acadêmicos, além da utilização do Visual Studio Code como ambiente de desenvolvimento.
+        O trabalho também permitiu desenvolver habilidades no uso do GitHub para armazenamento, versionamento e compartilhamento de projetos acadêmicos, além da utilização do Visual Studio Code como ambiente de desenvolvimento.
 
-Por meio desta atividade, foi possível compreender melhor o funcionamento básico de uma página web, bem como a importância da organização do código, documentação e estruturação correta dos arquivos utilizados no projeto.
+        Por meio desta atividade, foi possível compreender melhor o funcionamento básico de uma página web, bem como a importância da organização do código, documentação e estruturação correta dos arquivos utilizados no projeto.
 
 --- 
 
