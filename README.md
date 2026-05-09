@@ -1,88 +1,97 @@
-# PROJETO MEUS 5 SITES FAVORITOS
-Esta atividade tem como objetivo demonstrar:
+# 💻 PROJETO MEUS 05 SITES FAVORITOS
 
-A criação de uma página HTML simples;
+![Autor](https://img.shields.io/badge/Autor-Marcos%20Correa-000000?style=for-the-badge&logo=github&logoColor=white)
+![Projeto Acadêmico](https://img.shields.io/badge/Projeto-Acadêmico-blue?style=for-the-badge)
+![Responsivo](https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge)
+![License MIT](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
-A utilização de comentários no código para documentação;
+## 📌 Objetivo do Projeto
 
-A execução correta da página web em um navegador;
+## O principal objetivo deste projeto é desenvolver uma página web simples utilizando HTML, colocando em prática os conceitos estudados em aula. A proposta busca estimular a compreensão da estrutura básica de um site, bem como a utilização correta de links e elementos visuais.Outro objetivo importante é aprender a documentar o código-fonte através de comentários explicativos, facilitando futuras manutenções e melhorando a organização do projeto. Além disso, o trabalho também tem como finalidade demonstrar a execução da página em um navegador e utilizar o GitHub como ferramenta de hospedagem e versionamento de código.
+---
 
-A publicação do projeto na plataforma GitHub.
+## 🧠 Como funciona?
+
+## Ao executar o programa, o sistema exibe no terminal os níveis do reservatório com cores diferentes, conforme a criticidade:
+
+📊 Tabela de Referência de Níveis
+
+🔴 Vermelho: Nível Muito baixo (Crítico) — Ação imediata necessária.
+
+🟡 Amarelo: Nível Baixo — Monitorafluxo de entrada.
+
+🟢 Verde: Nível Médio — Operação normal (Ideal).
+
+🧼 Ciano: Nível Alto — Capacidade elevada.
+
+🔵 Azul: Nível Muito Alto — Risco de transbordamento.
+
+Essa diferenciação visual facilita a interpretação rápida das 
+informações.
+
+<img width="1024" height="1536" alt="09" src="https://github.com/user-attachments/assets/8887eb3d-0981-4f6a-9508-7b3a33b702f0" />
+
 
 ---
 
-# MEUS 5 SITES FAVORITOS
+## ▶️ Como executar
 
-## 🌐 Site Número 01 — Centro Paula Souza
+1. Instale o Python
+2. Baixe o projeto ou clone o repositório:
 
-O Centro Paula Souza (CPS) é uma autarquia do Governo do Estado de São Paulo, vinculada à Secretaria de Ciência, Tecnologia e Inovação, que administra as Escolas Técnicas (Etecs) e Faculdades de Tecnologia (Fatecs) estaduais.
-
-É a maior instituição de ensino profissionalizante da América Latina, oferecendo educação gratuita e de qualidade com foco no mercado de trabalho.
-
-<img width="254" height="108" alt="01cps" src="https://github.com/user-attachments/assets/93e4f05b-191c-4db7-9eb7-acfb0c524682" />
-Fonte: Centro Paula Souza Maio de 2026
+git clone https://github.com/marcospaulocorrea123-wq/Controle-de-N-vel
 
 
+3. Copie o Código:
 
-🔗 [Link para o Centro Paula Souza](https://www.cps.sp.gov.br/)
+controlAg.py
+
+
+4. Execute o programa:
+
+controlAg.py
+
 
 ---
 
-## 🎨 Site Número 02 — Canva e Seus Recursos
-
-Canva é uma plataforma de design gráfico que permite aos usuários criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais.
-
-Lançado em 2013, o Canva é uma ferramenta online que tem a missão de garantir que qualquer pessoa no mundo possa criar qualquer design para publicar em qualquer lugar.  
+## 💡 Exemplo de uso
 
 
-<img width="329" height="150" alt="02canva" src="https://github.com/user-attachments/assets/f6124824-1c87-4009-b068-ee9486282f92" />
-Fonte: Bootcamps maio de 2026
+Assim que você executar o programa vai apresentar uma simulação exibindo a situação 
+do nivel de agua e os respectivos alarmes em intervalos de tempo conforme as figuras abaixo.
 
 
-🔗 [Link para o Canva](https://www.canva.com/pt_br/)
-
----
-
-## 🛠️ Site Número 03 — Instructables
-
-O Instructables é uma grande comunidade online focada em projetos DIY (Do It Yourself), onde usuários acompanham instruções passo a passo, fotos e vídeos sobre como construir, cozinhar, reconstruir ou criar diversos objetos.
-
-Pertencente à Autodesk, o site abrange categorias como tecnologia, oficina, artesanato, culinária e casa.  
+## ⏱️ Intervalo 01
 
 
-<img width="294" height="155" alt="03Instructables" src="https://github.com/user-attachments/assets/47c74146-0cac-4a7a-a255-30f4ab7352cb" />
-Fonte: TechTudo maio de 2026
 
-🔗 [Link para o Instructables](https://www.instructables.com/)
+<img width="454" height="169" alt="03" src="https://github.com/user-attachments/assets/eb03ba7d-b753-4daa-879b-47cac042ef51" />
 
----
 
-## 📱 Site Número 04 — MIT App Inventor
 
-MIT App Inventor é uma aplicação de código aberto originalmente criada pela Google e atualmente mantida pelo MIT.
+## ⏱️ Intervalo 02
 
-A plataforma permite criar aplicativos funcionais para Android e iOS usando blocos visuais de programação, sem precisar escrever códigos tradicionais.
+<img width="445" height="276" alt="07" src="https://github.com/user-attachments/assets/834bb2fe-49ae-40fc-a981-7bd120f147ca" />
 
-É uma ferramenta gratuita e intuitiva, ideal para iniciantes e estudantes aprenderem lógica de programação.  
 
-<img width="209" height="107" alt="04mit" src="https://github.com/user-attachments/assets/6a70d449-c501-4df1-83cd-6fd494e91f2a" />
-Fonte: Wikipédia maio de 2026
+## ⏱️ Intervalo (t + n...)
 
-🔗 [Link para o MIT App Inventor](https://appinventor.mit.edu/)
+
+<img width="452" height="488" alt="08" src="https://github.com/user-attachments/assets/ff9efdcb-6da7-4cd0-a63d-87342e325a05" />
+
+
+
 
 ---
 
-# 💻 Site Número 05 — GitHub
+## 🚀 Tecnologias utilizadas
 
-O GitHub é uma ferramenta essencial para engenheiros de software, ajudando a melhorar o fluxo de trabalho e promover a colaboração entre desenvolvedores.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-Mais de 94 milhões de desenvolvedores, 4 milhões de organizações e 330 milhões de repositórios fazem parte da plataforma.
-
-Sua popularidade se deve à grande quantidade de recursos disponíveis para controlar e gerenciar projetos em qualquer linguagem de programação ou sistema operacional.  
-
-<img width="323" height="144" alt="05GitHub" src="https://github.com/user-attachments/assets/22d5cdb9-d9c4-42a4-b0f9-179c69231102" />
-Fonte: EBAC Online maio de 2026
-
-🔗 [Link para o GitHub](https://github.com/)
 
 ---
+
