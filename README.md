@@ -57,6 +57,17 @@ Como o projeto foi desenvolvido apenas com HTML, não é necessário instalar bi
 <img width="1828" height="860" alt="print 04" src="https://github.com/user-attachments/assets/b5f336b3-7a26-422d-a900-f5f942425905" />
 
 ---
+# 🏁 Descrição Final do Projeto
+
+O projeto **“Meus 5 Sites Favoritos”** foi desenvolvido utilizando a linguagem HTML com o objetivo de praticar os conceitos fundamentais de desenvolvimento web, estruturação de páginas e criação de hyperlinks. A página apresenta cinco sites selecionados pelo autor, contendo descrições informativas, imagens ilustrativas e links direcionando para os respectivos sites oficiais.
+
+Durante o desenvolvimento do projeto, foram aplicados conhecimentos relacionados à criação de páginas estáticas, utilização de títulos, parágrafos, imagens e links externos. Além disso, o código-fonte foi documentado com comentários explicativos para facilitar a compreensão da estrutura do sistema e auxiliar na organização do projeto.
+
+O trabalho também permitiu desenvolver habilidades no uso do GitHub para armazenamento, versionamento e compartilhamento de projetos acadêmicos, além da utilização do Visual Studio Code como ambiente de desenvolvimento.
+
+Por meio desta atividade, foi possível compreender melhor o funcionamento básico de uma página web, bem como a importância da organização do código, documentação e estruturação correta dos arquivos utilizados no projeto.
+
+--- 
 
 ## 🚀 Tecnologias utilizadas
 
